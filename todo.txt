@@ -1,0 +1,14 @@
+
+## Class oOject
+nbrObjects //int
+allObjects //tupple
+
+	# Positioning
+	Object.posGrid //list
+	Object.posWorld //list
+	Object.posScreen //list
+
+	# Forces
+	Object.acceleration //list
+	Object.velocity //list
+

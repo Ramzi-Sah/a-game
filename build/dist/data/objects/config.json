@@ -1,0 +1,17 @@
+{"objects": 
+	{
+		"player":{
+			"type": "img",
+			"size": [100, 100],
+			"file": "data/objects/player.png"
+		},
+		"Tank":{
+			"type": "img",
+			"size": [96, 96],
+			"file": "data/objects/Tank.png"
+		}
+		
+		
+		
+	}
+}
