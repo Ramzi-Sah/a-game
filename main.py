@@ -3,7 +3,7 @@
 """
 #################################################################################################################
 #   Author: Ramzi Sah
-#   Project: mybigdick
+#   Project: first pygame game
 #   Version: 0.2
 
 #   description:
